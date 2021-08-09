@@ -2152,6 +2152,46 @@ builtin-status-codes@^3.0.0:
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
   integrity sha1-hZgoeOIbmOHGZCXgPQF0eI9Wnug=
 
+bulma-checkbox@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/bulma-checkbox/-/bulma-checkbox-1.1.1.tgz#69108ca787f266611390dfc86f2ea2dfa536c9fc"
+  integrity sha512-16aTRbXQBCdfk8nrWSVJCasD28FudeVF+G+mZfMJc2N/xTcU4XXjzQ6Iya1neKOgXkXQMx9nJOH2n8H7LRztNg==
+  dependencies:
+    bulma "^0.9.0"
+
+bulma-radio@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/bulma-radio/-/bulma-radio-1.1.1.tgz#3eb51c43aa5cef754826d0c4b8cbee09d83d2989"
+  integrity sha512-aIHuMbpBGyZYx8KxbQRdjIy/0M9WHWz5VyxMggwxmCadnN0gd7gC/G96WUy9mhaoIfo9yX/Cf8pKQNinKH+w7w==
+  dependencies:
+    bulma "^0.9.0"
+
+bulma-responsive-tables@^1.2.3:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/bulma-responsive-tables/-/bulma-responsive-tables-1.2.3.tgz#cb7f9fe7e48979856a373ef1816fdc73cf54b917"
+  integrity sha512-3BMCFxqlfDytNEsLU/WXEJPaTI5YJFtTxrSPv40Fz37r2BpOgPkdIvaxP3E/mgAM1WzPfmgdi5U/vknglOzogg==
+  dependencies:
+    bulma "^0.9.0"
+
+bulma-switch-control@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/bulma-switch-control/-/bulma-switch-control-1.1.1.tgz#88e6e5f2d0cfcd3f4eb8e0b306937f34181def2a"
+  integrity sha512-uvPhLeiip1P/JZf9nidbA+7cQmUYKzS5vVbzhEAUk0oz6H3hPhHDIef/rUwqig1veRUd7vXBZ1hOcsM9gLxv/A==
+  dependencies:
+    bulma "^0.9.0"
+
+bulma-upload-control@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/bulma-upload-control/-/bulma-upload-control-1.2.0.tgz#b44c497ce64deef3f01012d43c4085f43c7e510b"
+  integrity sha512-2raueVPVoG3KjHH+7Aok44nGSPIl76qzdkLKX/ziHAOwbiXBrlEYHXca8Hk0UDa0KElLiPT6Eb2Cvz+8FFUwBw==
+  dependencies:
+    bulma "^0.9.0"
+
+bulma@^0.9.0, bulma@^0.9.3:
+  version "0.9.3"
+  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.9.3.tgz#ddccb7436ebe3e21bf47afe01d3c43a296b70243"
+  integrity sha512-0d7GNW1PY4ud8TWxdNcP6Cc8Bu7MxcntD/RRLGWuiw/s0a9P+XlH/6QoOIrmbj6o8WWJzJYhytiu9nFjTszk1g==
+
 bytes@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/bytes/-/bytes-3.0.0.tgz#d32815404d689699f85a4ea4fa8755dd13a96048"
